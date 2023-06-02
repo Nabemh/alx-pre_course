@@ -1,2 +1,2 @@
 My first readme
-Little mod
+Little mod for git project
